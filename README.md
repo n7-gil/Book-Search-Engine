@@ -10,4 +10,4 @@ Use `npm run develop`
 
 # Deployment
 
-Heroku Deployed Link: []
+Heroku Deployed Link: [https://git.heroku.com/book-search-engine-n7.git]
